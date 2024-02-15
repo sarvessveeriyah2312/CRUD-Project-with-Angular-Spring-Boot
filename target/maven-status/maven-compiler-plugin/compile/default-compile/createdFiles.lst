@@ -1,0 +1,6 @@
+com\example\userassesment\config\CorsConfig$1.class
+com\example\userassesment\model\Users.class
+com\example\userassesment\repository\UserRepository.class
+com\example\userassesment\UserassesmentApplication.class
+com\example\userassesment\config\CorsConfig.class
+com\example\userassesment\controller\UserController.class
